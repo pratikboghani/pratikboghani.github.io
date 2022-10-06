@@ -3,7 +3,7 @@ export default {
 		about: {
 			text: [
 				"Hi &#128075;",
-				"I'm Pratik Boghani. Currently, i’m a student at Humber College, Canada. I'm specialized in building <b>Flutter Applications & C# Windows Softwares + Python Scripts.",
+				"I'm Pratik Boghani. I'm specialized in building <b>Flutter Applications & C# Windows Softwares + Python Scripts.",
 				"I have completed my Bachelor in CS from Gujarat Technological University, Gujarat. I'm a developer, geek and curious human	besides being an OpenSource enthusiast. I have experience of delivering solutions for interesting problems from startup and industry space.",
 				"I love to Travel+Code+Music.",
 			],
@@ -220,7 +220,7 @@ export default {
 		},
 		{
 			title: "Silver Technologies",
-			duration: "December 2020 - July 2021",
+			duration: "January 2020 - June 2021",
 			subtitle: "Software Engineer",
 			details: [
 				"Worked on Desktop Applications. APIs, SQL Server. The main projects are Diamond Inventory System, Textile Inventory System, Payroll. In which I have developed new, efficient, and well-tested code.",
@@ -238,7 +238,7 @@ export default {
 		},
 		{
 			title: "Bitwise Infotech",
-			duration: "May 2020 - October 2020",
+			duration: "September 2019 - October 2019",
 			subtitle: "Intern",
 			details: [
 				"Worked on web project and Solved various DS queries.",
