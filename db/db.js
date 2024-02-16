@@ -3,7 +3,7 @@ export default {
     about: {
       text: [
         "Hi &#128075;",
-        "I am Pratik Boghani, ",
+        "I am Pratik Boghani,",
         "a skilled professional with expertise in crafting <b>Flutter Applications</b>, <b>C# Windows Software</b>, and <b>Python Scripts</b>. ",
         "I hold a Bachelor's degree in Computer Science from Gujarat Technological University, Gujarat, and I am currently pursuing a web development program at Conestoga College in Ontario, Canada.",
         "As a developer, geek, and inquisitive individual, I am passionate about Open Source and have a proven track record of delivering innovative solutions for diverse challenges within both startup and industry settings.",
