@@ -228,7 +228,6 @@ export default {
           "Firebase",
         ],
       },
-
       {
         projectName: "ETEX",
         image: "images/pETEX.jpg",
