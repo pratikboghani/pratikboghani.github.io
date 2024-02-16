@@ -81,6 +81,22 @@ export default {
   projects: {
     web: [
       {
+        projectName: "ShiftTime",
+        image: "images/ShiftTimeIcon.png",
+        summary:
+          "Employee shift scheduling system application and website. Allow managers to make scheduling decisions based on employee availability. Features: Availability, bookoffs, scheduling, weather data, hours management",
+
+        preview: "",
+        techStack: [
+          "Flutter",
+          "Dart",
+          "Android Studio",
+          "REST API",
+          "Firebase",
+          "Node.js",
+        ],
+      },
+      {
         projectName: "ERP Student",
         image: "images/pERP.png",
         summary:
@@ -212,20 +228,7 @@ export default {
           "Firebase",
         ],
       },
-      {
-        projectName: "ShiftTime",
-        image: "images/ShiftTimeIcon.png",
-        summary: "Employee shift scheduling system application and website.",
-        preview: "",
-        techStack: [
-          "Flutter",
-          "Dart",
-          "Android Studio",
-          "REST API",
-          "Firebase",
-          "Node.js",
-        ],
-      },
+
       {
         projectName: "ETEX",
         image: "images/pETEX.jpg",
