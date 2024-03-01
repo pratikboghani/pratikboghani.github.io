@@ -313,11 +313,7 @@ export default {
       title: "Bachelors in Computer Engineering",
       duration: "2017-2021",
       subtitle: "Gujarat Technological University",
-      details: [
-        "CGPA : 9.25/10",
-        "WES Evaluation Score : 3.83/4",
-        "Received 500+ stars and 300+ forks on GitHub projects.",
-      ],
+      details: ["CGPA : 9.25/10", "WES Evaluation Score : 3.83/4"],
       tags: [
         "Data Structures & Algorithms",
         "Operating Systems",
